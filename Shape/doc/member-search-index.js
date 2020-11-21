@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"package1","c":"Shape","l":"getColor()"},{"p":"package1","c":"Shape","l":"isFilled()"},{"p":"package1","c":"Shape","l":"setFilled(boolean)"},{"p":"package1","c":"Shape","l":"Shape()","url":"%3Cinit%3E()"},{"p":"package1","c":"Shape","l":"Shape(String, boolean)","url":"%3Cinit%3E(java.lang.String,boolean)"},{"p":"package1","c":"Shape","l":"toString()"}]
